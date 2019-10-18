@@ -1,0 +1,156 @@
+.header .navigation-dropdown {
+	position: absolute;
+	z-index: 3;
+	top: 60px;
+	left: 0;
+	right: 0;
+	background-color: rgba(0, 0, 0, 0.9);
+	overflow: hidden;
+	
+}
+
+.sub-container{
+	width: 1240px;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	height: 180px;
+	/*display: block;*/
+	position: relative;
+	padding-left: 30px;
+}
+
+.swiper-wrapper{
+	padding-bottom: 0px;
+}
+
+.sub-container >.swiper-wrapper> .swiper-slide{
+	width: 235px !important;
+	height: 180px !important;
+	float: left !important;
+	display: block;
+}
+
+.sub-item {
+	width: 235px;
+	height: 180px;
+	display: block;
+	float: left;
+}
+
+.lottery1, .lottery2, .lottery3, .lottery4, .lottery5,
+.sport1, .sport2, .sport3,
+.live1, .live2, .live3, .live4, .live5, .live6, .live7, .live8,
+.slot1, .slot2, .slot3, .slot4,
+.fish1, .fish2{
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	background-size: 100% auto;
+	opacity: 0.6;
+}
+
+.lottery1{background-image: url(../images/item/sub-lottery-FF.png);}
+.lottery2{background-image: url(../images/item/sub-lottery-DS.png);}
+.lottery3{background-image: url(../images/item/sub-lottery-TC.png);}
+.lottery4{background-image: url(../images/item/sub-lottery-HC.png);}
+.lottery5{background-image: url(../images/item/sub-lottery-live.png);}
+
+.sport1{background-image: url(../images/item/sub-sport-crown.png);}
+.sport2{background-image: url(../images/item/sub-sport-BB.png);}
+.sport3{background-image: url(../images/item/sub-lottery-IN.png);}
+
+.live1{background-image: url(../images/item/sub-live-VF.png);}
+.live2{background-image: url(../images/item/sub-live-AG.png);}
+.live3{background-image: url(../images/item/sub-live-FF.png);}
+.live4{background-image: url(../images/item/sub-live-DS.png);}
+.live5{background-image: url(../images/item/sub-live-OG.png);}
+.live6{background-image: url(../images/item/sub-live-GD.png);}
+.live7{background-image: url(../images/item/sub-live-LMG.png);}
+.live8{background-image: url(../images/item/sub-live-SUNBET.png);}
+
+.slot1{background-image: url(../images/item/sub-slot-PT.png);}
+.slot2{background-image: url(../images/item/sub-slot-MG.png);}
+.slot3{background-image: url(../images/item/sub-slot-BB.png);}
+.slot4{background-image: url(../images/item/sub-slot-YOPLAY.png);}
+
+.fish1{background-image: url(../images/item/sub-fish-AG.png);}
+.fish2{background-image: url(../images/item/sub-fish-GD.png);}
+
+.sub-item a{
+	color: #878787;
+	width: 235px;
+	height: 180px;
+	display: block;
+	float: left;
+	border-left: 1px solid rgba(130,130,138,0.1);
+}
+
+.sub-item a:hover{
+	color: #fff;
+	background-image: url(../images/sub-mask-item.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	height: 180px;
+	background-size: auto 100%;
+	border-left: 1px solid rgba(130,130,138,0.5);
+}
+
+.lottery1:hover, .lottery2:hover, .lottery3:hover, .lottery4:hover, .lottery5:hover,
+.sport1:hover, .sport2:hover, .sport3:hover,
+.live1:hover, .live2:hover, .live3:hover, .live4:hover, .live5:hover, .live6:hover, .live7:hover, .live8:hover,
+.slot1:hover, .slot2:hover, .slot3:hover, .slot4:hover,
+.fish1:hover, .fish2:hover{
+	opacity: 1;
+}
+
+.sub-item a span{
+	color: #fff;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60%;
+	font-size: 14px;
+}
+.sub-item a span:hover{color: #fff;}
+.r-btn{padding-left: 90px;}
+
+
+.sub-container >.swiper-button-next,
+.sub-container >.swiper-button-prev{
+	 position:absolute;
+	 top:70px;
+	 width:15px;
+	 height:27px;
+	 margin-top:0px;
+	 z-index:10;
+	 cursor:pointer;
+	 background-size:15px 27px;
+	 background-position:center;
+	 background-repeat:no-repeat
+}
+.sub-container >.swiper-button-next.swiper-button-disabled,
+.sub-container >.swiper-button-prev.swiper-button-disabled {
+ opacity:.35;
+ cursor:auto;
+ pointer-events:none
+}
+
+.sub-container >.swiper-button-next{
+	 right:0px;
+	 left:auto
+}
+
+.sub-container >.swiper-button-prev{
+	 left:0px;
+	 right:auto
+}
+
+/*----------------RWD-------------------------*/
+
+@media (max-width: 1366px) {
+.sub-container{width:100%;}
+	.sub-container{
+	padding-left: 0px;}
+
+}
+

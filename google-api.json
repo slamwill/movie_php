@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dio-friends",
+  "private_key_id": "46c24c138caffa5051820b2444e21129d7910832",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDN7y5U/E8D/ZwK\nqbwZJNpfEn1OphMndQZXn5WBJFHTqwuZCWkaU9YtGNukrtPnpJEI514GeYe4aPo2\nDbAwWNUH72UkMcxKmjpbAOGmwrlD4D1jR1Mi6IH2V7YnlmVqr7JGrhVuLJONH9U/\non/KYLii+mYdxG0sIRpBCb/jTvDQOiBv1+DbAkeGlwbwD/NXojIf91tvhVGql7IJ\nEhteKu8cBGuRIs84Y1A0O/md69Gd3547TkK0Zds9eeEGKervb2QRgpvn5BLaRsmg\nQ5hLilxqZtTbbLYzgVPjxB0xxxfHVt3qF8B+33ZR02qHm0Z4Czx/k4DvDrDRyGcc\np67tZfNJAgMBAAECggEAH9vMiGfHJpglu42SNLablOE0owX0ySIk0sn0tFek1BDu\nWKTYznKhW/UwR6wnSrsOF/lJNcm32irdaJ7Z/sTDYjiiJkUQ9IqjFACRKD4QMMTA\nYns+jJQ5RN3BZ6Lv+h8HvsEAPjzlr8u4ryFJ0UqAze/ce+bvN8hAOkcSmU0VWrUY\nUUmNPpOShPTw2g/s+JF4XaIJNiE8DOVlDutnMr/GsbDYya09udhpxKO0cCLdGRTF\n4uKq5nkRUxutlwEFl+DxF1kR/TbKFcHAznB+Kj9wKHf09mfK4cIQgHLWTVDJvK9X\nW02Fp9eFVLtgSjCI99d8AX0VfOb9JYFM5X2VG6neLQKBgQDptwmiaf2j5Ad66zYP\nTMfGCGdLSmLCRLU0Tzz5de10laqCWk4S5w+1pyeRdJ9IxCvDJ4W4NwGoQXwFjmLz\ntQMpcF0UpNIygCZYmHdne2Z1YchzHFeZvmcNuNpDnpLOTe02Fpd0mGMD2wGaKsSx\nc4ZQJDJj6VePAPoe/x4s0RJdTQKBgQDhkgTm/grHXM8+eidwHxEqSFKDvxcA/i+N\n4lJETLjJaXIU7vHJrcsrrbJXb/vs6O5t81euLtcsGw4Rou0SQq9RcQkdLlU0D1Dp\nuA7VowKbW0IG0DBhPhdewRCNIlYDTl9o0xtGDVqAO0AamFF2P2vsc8sjJU2jRVP3\n8LtuPt5f7QKBgQCIheZ33GhQs2R3Niz3FQfhs4j7XzF/f/lF3D+nDW8vWjonOS9A\nNX9kwocHndNqA0X5Ev421NMAAXi8GifNauC09TE6XOl4nIlJ2Y5ugZQhX4RjUZwO\ncD3ssx20wE3Le5Pks5+3eUjluKof73nEmtJLwEk7OdRu8cgqEScEUQDkRQKBgQCL\nklU0NIao2tVlHCJg7ugpGHzuBgQO2jjEewBaQHqqLXOoXjz/hGjNSvmpvqHL8kjt\ngX+ESHldUhQ/d2dnQBnIs79m7e9MehmftAKB0A5h4HKXUqRM1yWQvLcoDNHZ09mX\nO+CJVOPlqkO88PieyRlXQkK0KXXDi7csGClxSrc/9QKBgQDjnObDHdPaHNjDBO07\nNZygJiVuuITyHBYIeyyxmTAk4brm4J0sLzUUBmEE4glEZYMyYzCToOqFH9XT7lWD\nALoAjFK7NAvMRrd26kBUplogAzRT8Fc8ONAxA6mSOO0pz1825JxYzJzrqHpZjH7J\npZ0nlQa2B0v6x9ptSH8036JQ+w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-translation-api@dio-friends.iam.gserviceaccount.com",
+  "client_id": "101026397495599744736",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-translation-api%40dio-friends.iam.gserviceaccount.com"
+}
